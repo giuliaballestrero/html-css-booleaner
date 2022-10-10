@@ -20,3 +20,7 @@ a {
     text-decoration: none;
     color: #31b0e7;
   }
+
+  .highlighter {
+    background-color: yellow;
+  }
