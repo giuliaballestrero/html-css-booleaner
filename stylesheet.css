@@ -1,0 +1,13 @@
+#banner-titolo {
+    height: 175px; ;
+    width: 100%;
+    background-image: url(img/pattern.png);
+    background-color: #4996ef;
+    background-repeat: repeat-x;
+}
+
+#booleaner-logo {
+    height: 30%;
+    width: auto;
+    
+}
