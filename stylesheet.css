@@ -24,3 +24,8 @@ a {
   .highlighter {
     background-color: yellow;
   }
+
+  table {
+    text-align: left;
+    table-layout: auto;
+  }
