@@ -9,7 +9,6 @@
 #booleaner-logo {
     height: 30%;
     width: auto;
-    
 }
 
 .grey-title {
@@ -28,6 +27,15 @@ a {
   table {
     text-align: left;
     table-layout: auto;
+  }
+
+  thead {
+    background-color: #20a9e5;
+    color: white;
+  }
+
+  .color-line {
+    background-color: #b1e5f2;
   }
 
   #article-1 {
