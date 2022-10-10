@@ -11,3 +11,12 @@
     width: auto;
     
 }
+
+.grey-title {
+    color: grey;
+}
+
+a {
+    text-decoration: none;
+    color: #31b0e7;
+  }
