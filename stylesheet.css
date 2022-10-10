@@ -1,6 +1,5 @@
 #banner-titolo {
     height: 175px; ;
-    width: 100%;
     background-image: url(img/pattern.png);
     background-color: #4996ef;
     background-repeat: repeat-x;
@@ -26,12 +25,16 @@ a {
 
   table {
     text-align: left;
-    table-layout: auto;
+    border-collapse: collapse;
   }
 
   thead {
     background-color: #20a9e5;
     color: white;
+  }
+
+  th, td {
+    padding: 15px;
   }
 
   .color-line {
